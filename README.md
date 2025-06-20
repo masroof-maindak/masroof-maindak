@@ -1,1 +1,1 @@
-![Yotsuba](./.github/assets/Yotsuba.jpg)
+![banner](./.github/assets/Shoujo%20Shuumatsu%20Ryokou%20-%20Vol.6%20Chapter%2043.1.jpg)
