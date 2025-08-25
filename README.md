@@ -1,1 +1,3 @@
-![banner](./.github/assets/Shoujo%20Shuumatsu%20Ryokou%20-%20Vol.6%20Chapter%2043.1.jpg)
+![banner](.github/assets/Magus%20of%20the%20Library%20-%20Chapter%2053.1_%20Departure%20-%202.jpg)
+
+# Here be dragons.
